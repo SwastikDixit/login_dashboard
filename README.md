@@ -27,8 +27,4 @@ This project implements client-side validation for a login page using JavaScript
 
 ## Contributors
 
-- Your Name
-
-## License
-
-This project is licensed under the [License Name](link).
+- Swastik Dixit
